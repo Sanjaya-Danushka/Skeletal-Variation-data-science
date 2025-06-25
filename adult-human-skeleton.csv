@@ -1,0 +1,207 @@
+name,region,subregion,side,fused_from
+frontal,head,cranium,center,2
+left parietal,head,cranium,left,1
+right parietal,head,cranium,right,1
+left temporal,head,cranium,left,1
+right temporal,head,cranium,right,1
+occipital,head,cranium,center,4
+sphenoid,head,cranium,center,3
+ethmoid,head,cranium,center,1
+mandible,head,face,center,2
+left maxilla,head,face,left,1
+right maxilla,head,face,right,1
+left palatine,head,face,left,2
+right palatine,head,face,right,2
+left zygomatic,head,face,left,2
+right zygomatic,head,face,right,2
+left nasal,head,face,left,1
+right nasal,head,face,right,1
+left lacrimal,head,face,left,1
+right lacrimal,head,face,right,1
+vomer,head,face,center,1
+left nasal concha,head,face,left,1
+right nasal concha,head,face,right,1
+left malleus,head,ear,left,1
+right malleus,head,ear,right,1
+left incus,head,ear,left,1
+right incus,head,ear,right,1
+left stapes,head,ear,left,1
+right stapes,head,ear,right,1
+hyoid,neck,throat,center,3
+c1,neck,vertebra,center,3
+c2,neck,vertebra,center,5
+c3,neck,vertebra,center,3
+c4,neck,vertebra,center,3
+c5,neck,vertebra,center,3
+c6,neck,vertebra,center,3
+c7,neck,vertebra,center,3
+left scapula,torso,shoulder,left,3
+right scapula,torso,shoulder,right,3
+left clavicle,torso,shoulder,left,1
+right clavicle,torso,shoulder,right,1
+sternum,torso,chest,center,6
+left rib 1,torso,chest,left,1
+left rib 2,torso,chest,left,1
+left rib 3,torso,chest,left,1
+left rib 4,torso,chest,left,1
+left rib 5,torso,chest,left,1
+left rib 6,torso,chest,left,1
+left rib 7,torso,chest,left,1
+left rib 8,torso,chest,left,1
+left rib 9,torso,chest,left,1
+left rib 10,torso,chest,left,1
+left rib 11,torso,chest,left,1
+left rib 12,torso,chest,left,1
+right rib 1,torso,chest,right,1
+right rib 2,torso,chest,right,1
+right rib 3,torso,chest,right,1
+right rib 4,torso,chest,right,1
+right rib 5,torso,chest,right,1
+right rib 6,torso,chest,right,1
+right rib 7,torso,chest,right,1
+right rib 8,torso,chest,right,1
+right rib 9,torso,chest,right,1
+right rib 10,torso,chest,right,1
+right rib 11,torso,chest,right,1
+right rib 12,torso,chest,right,1
+t1,torso,vertebra,center,3
+t2,torso,vertebra,center,3
+t3,torso,vertebra,center,3
+t4,torso,vertebra,center,3
+t5,torso,vertebra,center,3
+t6,torso,vertebra,center,3
+t7,torso,vertebra,center,3
+t8,torso,vertebra,center,3
+t9,torso,vertebra,center,3
+t10,torso,vertebra,center,3
+t11,torso,vertebra,center,3
+t12,torso,vertebra,center,3
+l1,torso,vertebra,center,3
+l2,torso,vertebra,center,3
+l3,torso,vertebra,center,3
+l4,torso,vertebra,center,3
+l5,torso,vertebra,center,3
+sacrum,torso,pelvis,center,5
+coccyx,torso,pelvis,center,4
+left innominate,torso,pelvis,left,3
+right innominate,torso,pelvis,right,3
+left humerus,arm,upper-arm,left,3
+right humerus,arm,upper-arm,right,3
+left radius,arm,lower-arm,left,2
+right radius,arm,lower-arm,right,2
+left ulna,arm,lower-arm,left,2
+right ulna,arm,lower-arm,right,2
+left scaphoid,hand,wrist,left,1
+right scaphoid,hand,wrist,right,1
+left lunate,hand,wrist,left,1
+right lunate,hand,wrist,right,1
+left triquetral,hand,wrist,left,1
+right triquetral,hand,wrist,right,1
+left pisiform,hand,wrist,left,1
+right pisiform,hand,wrist,right,1
+left trapezium,hand,wrist,left,1
+right trapezium,hand,wrist,right,1
+left trapezoid,hand,wrist,left,1
+right trapezoid,hand,wrist,right,1
+left capitate,hand,wrist,left,1
+right capitate,hand,wrist,right,1
+left hamate,hand,wrist,left,1
+right hamate,hand,wrist,right,1
+left metacarpal 1,hand,palm,left,1
+left metacarpal 2,hand,palm,left,1
+left metacarpal 3,hand,palm,left,1
+left metacarpal 4,hand,palm,left,1
+left metacarpal 5,hand,palm,left,1
+right metacarpal 1,hand,palm,right,1
+right metacarpal 2,hand,palm,right,1
+right metacarpal 3,hand,palm,right,1
+right metacarpal 4,hand,palm,right,1
+right metacarpal 5,hand,palm,right,1
+left proximal manual phalanx 1,hand,fingers,left,1
+left proximal manual phalanx 2,hand,fingers,left,1
+left proximal manual phalanx 3,hand,fingers,left,1
+left proximal manual phalanx 4,hand,fingers,left,1
+left proximal manual phalanx 5,hand,fingers,left,1
+right proximal manual phalanx 1,hand,fingers,right,1
+right proximal manual phalanx 2,hand,fingers,right,1
+right proximal manual phalanx 3,hand,fingers,right,1
+right proximal manual phalanx 4,hand,fingers,right,1
+right proximal manual phalanx 5,hand,fingers,right,1
+left intermediate manual phalanx 2,hand,fingers,left,1
+left intermediate manual phalanx 3,hand,fingers,left,1
+left intermediate manual phalanx 4,hand,fingers,left,1
+left intermediate manual phalanx 5,hand,fingers,left,1
+right intermediate manual phalanx 2,hand,fingers,right,1
+right intermediate manual phalanx 3,hand,fingers,right,1
+right intermediate manual phalanx 4,hand,fingers,right,1
+right intermediate manual phalanx 5,hand,fingers,right,1
+left distal manual phalanx 1,hand,fingers,left,1
+left distal manual phalanx 2,hand,fingers,left,1
+left distal manual phalanx 3,hand,fingers,left,1
+left distal manual phalanx 4,hand,fingers,left,1
+left distal manual phalanx 5,hand,fingers,left,1
+right distal manual phalanx 1,hand,fingers,right,1
+right distal manual phalanx 2,hand,fingers,right,1
+right distal manual phalanx 3,hand,fingers,right,1
+right distal manual phalanx 4,hand,fingers,right,1
+right distal manual phalanx 5,hand,fingers,right,1
+left femur,leg,upper-leg,left,3
+right femur,leg,upper-leg,right,3
+left patella,leg,knee,left,1
+right patella,leg,knee,right,1
+left tibia,leg,lower-leg,left,2
+right tibia,leg,lower-leg,right,2
+left fibula,leg,lower-leg,left,2
+right fibula,leg,lower-leg,right,2
+left calcaneus,foot,ankle,left,1
+right calcaneus,foot,ankle,right,1
+left talus,foot,ankle,left,1
+right talus,foot,ankle,right,1
+left navicular,foot,ankle,left,1
+right navicular,foot,ankle,right,1
+left medial cuneiform,foot,ankle,left,1
+right medial cuneiform,foot,ankle,right,1
+left intermediate cuneiform,foot,ankle,left,1
+right intermediate cuneiform,foot,ankle,right,1
+left lateral cuneiform,foot,ankle,left,1
+right lateral cuneiform,foot,ankle,right,1
+left cuboid,foot,ankle,left,1
+right cuboid,foot,ankle,right,1
+left metatarsal 1,foot,mid-foot,left,1
+left metatarsal 2,foot,mid-foot,left,1
+left metatarsal 3,foot,mid-foot,left,1
+left metatarsal 4,foot,mid-foot,left,1
+left metatarsal 5,foot,mid-foot,left,1
+right metatarsal 1,foot,mid-foot,right,1
+right metatarsal 2,foot,mid-foot,right,1
+right metatarsal 3,foot,mid-foot,right,1
+right metatarsal 4,foot,mid-foot,right,1
+right metatarsal 5,foot,mid-foot,right,1
+left proximal pedal phalanx 1,foot,toes,left,1
+left proximal pedal phalanx 2,foot,toes,left,1
+left proximal pedal phalanx 3,foot,toes,left,1
+left proximal pedal phalanx 4,foot,toes,left,1
+left proximal pedal phalanx 5,foot,toes,left,1
+right proximal pedal phalanx 1,foot,toes,right,1
+right proximal pedal phalanx 2,foot,toes,right,1
+right proximal pedal phalanx 3,foot,toes,right,1
+right proximal pedal phalanx 4,foot,toes,right,1
+right proximal pedal phalanx 5,foot,toes,right,1
+left intermediate pedal phalanx 2,foot,toes,left,1
+left intermediate pedal phalanx 3,foot,toes,left,1
+left intermediate pedal phalanx 4,foot,toes,left,1
+left intermediate pedal phalanx 5,foot,toes,left,1
+right intermediate pedal phalanx 2,foot,toes,right,1
+right intermediate pedal phalanx 3,foot,toes,right,1
+right intermediate pedal phalanx 4,foot,toes,right,1
+right intermediate pedal phalanx 5,foot,toes,right,1
+left distal pedal phalanx 1,foot,toes,left,1
+left distal pedal phalanx 2,foot,toes,left,1
+left distal pedal phalanx 3,foot,toes,left,1
+left distal pedal phalanx 4,foot,toes,left,1
+left distal pedal phalanx 5,foot,toes,left,1
+right distal pedal phalanx 1,foot,toes,right,1
+right distal pedal phalanx 2,foot,toes,right,1
+right distal pedal phalanx 3,foot,toes,right,1
+right distal pedal phalanx 4,foot,toes,right,1
+right distal pedal phalanx 5,foot,toes,right,1
